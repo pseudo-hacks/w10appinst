@@ -91,7 +91,7 @@ $list = @(
 					,@{ name = 'TeamViewer'; package = 'teamviewer'; description = 'リモートPC操作'; }
 					,@{ name = 'ownCloud Windows Client'; package = 'owncloud'; description = 'ownCloudクライアント'; }
 					,@{ name = 'Wireshark'; package = 'wireshark'; description = 'プロトコル解析'; }
-					,@{ name = 'WinPcap'; package = 'WinPcap '; description = 'パケットドライバー'; }
+					,@{ name = 'WinPcap'; package = 'WinPcap'; description = 'パケットドライバー'; }
 			   )
 			}
 	   )
